@@ -1,0 +1,9 @@
+{
+    "name": "dunkirk-indiana",
+    "description": "express web app for 'Dunkirk, Indiana' site",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "4.9.0"
+    }
+}
